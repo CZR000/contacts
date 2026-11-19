@@ -1,6 +1,6 @@
 {
     'name': 'Contact Name Lastname',
-    'version': '18.0.1.0.1',
+    'version': '18.0.1.0.2',
     'author': 'AlexJimmy159',
     'maintainer': 'AlexJimmy159',
     'support': 'AlexJimmy159@gmail.com',
