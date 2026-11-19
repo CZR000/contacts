@@ -1,0 +1,47 @@
+# Translation of Odoo Server.
+# This file contains the translation of the following modules:
+# 	* contact_name_lastname
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Odoo Server 18.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-09-26 05:09+0000\n"
+"PO-Revision-Date: 2024-09-26 05:09+0000\n"
+"Last-Translator: Leo Daniel Flores Sánchez <AlexJimmy159@gmail.com>, 2024\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: \n"
+"Plural-Forms: \n"
+
+#. module: contact_name_lastname
+#: model:ir.model,name:contact_name_lastname.model_res_partner
+msgid "Contact"
+msgstr "Contacto"
+
+#. module: contact_name_lastname
+#: model:ir.model.fields,field_description:contact_name_lastname.field_res_partner__father_surname
+#: model:ir.model.fields,field_description:contact_name_lastname.field_res_users__father_surname
+#: model_terms:ir.ui.view,arch_db:contact_name_lastname.view_partner_form
+msgid "Father Surname"
+msgstr "Apellido paterno"
+
+#. module: contact_name_lastname
+#: model_terms:ir.ui.view,arch_db:contact_name_lastname.view_partner_form
+msgid "Full Name"
+msgstr "Nombre completo"
+
+#. module: contact_name_lastname
+#: model:ir.model.fields,field_description:contact_name_lastname.field_res_partner__mother_surname
+#: model:ir.model.fields,field_description:contact_name_lastname.field_res_users__mother_surname
+#: model_terms:ir.ui.view,arch_db:contact_name_lastname.view_partner_form
+msgid "Mother Surname"
+msgstr "Apellido materno"
+
+#. module: contact_name_lastname
+#: model:ir.model.fields,field_description:contact_name_lastname.field_res_partner__names
+#: model:ir.model.fields,field_description:contact_name_lastname.field_res_users__names
+#: model_terms:ir.ui.view,arch_db:contact_name_lastname.view_partner_form
+msgid "Names"
+msgstr "Nombres"
